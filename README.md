@@ -3,4 +3,4 @@
 ## Built using Langchain,OpenAI
 
 #### application architecture
-! chatpdf.png
+![](chatpdf.png)
