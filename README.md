@@ -13,4 +13,4 @@
 
 #### Website Frontend
 
-![](platform.png)
+![](platform(2).png)
